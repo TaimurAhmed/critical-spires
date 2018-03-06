@@ -1,0 +1,116 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "super bot",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "DemoSpeechIntent",
+          "samples": [
+            "demo speech variations",
+            "demo speech",
+            "demonstrate flexible voice capabilities",
+            "demonstrate voice capabilities",
+            "perform demonstration",
+            "demonstrate it's capabilities",
+            "demonstrate capabilities",
+            "to perform demonstration"
+          ]
+        },
+        {
+          "name": "HelloIntent",
+          "samples": [
+            "Hello",
+            "Hi",
+            "Hey",
+            "What is up",
+            "Wassup",
+            "Hola",
+            "Howdy"
+          ]
+        },
+        {
+          "name": "HelpMeIntent",
+          "samples": [
+            "help",
+            "help me",
+            "please help me",
+            "help me please",
+            "please help",
+            "what can you do",
+            "what can it do",
+            "what can do",
+            "what can super bot do",
+            "what can she do",
+            "what can he do",
+            "what it can do",
+            "what does it do",
+            "what could it do",
+            "what is it capable of",
+            "what are it's capabilities"
+          ]
+        },
+        {
+          "name": "PurposeIntent",
+          "samples": []
+        },
+        {
+          "name": "QuestionIntent",
+          "samples": [
+            "What is a carbon",
+            "Tell me something about carbon",
+            "Explain carbon",
+            "Tell me something cool about carbon",
+            "Tell me something interesting about carbon",
+            "What is carbon",
+            "Carbon"
+          ]
+        },
+        {
+          "name": "SecondQuestionIntent",
+          "samples": [
+            "What is covalent bonding",
+            "covalent bonding is",
+            "explain covalent bonding",
+            "covalent bonding",
+            "identify covalent bonding",
+            "what is covalent bonding anyway",
+            "what is covalent",
+            " bonding"
+          ]
+        },
+        {
+          "name": "SecretIntent",
+          "samples": [
+            "secret",
+            "tell secret",
+            "tell me secret",
+            "tell your secret",
+            "what is your  secret",
+            "tell me your secret",
+            "tell me it's secret",
+            "tell me her secret",
+            "tell me a secret",
+            "tell us it's deepest darkest secret",
+            "tell us it's darkest secret",
+            "tell us it's deepest secret",
+            "tell us the secret",
+            "tell secret to us",
+            "it's deepest darkest secret"
+          ]
+        }
+      ]
+    }
+  }
+}
